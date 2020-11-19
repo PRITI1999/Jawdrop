@@ -1,0 +1,39 @@
+.icon-size {
+  height: 2rem;
+  width: 2rem;
+}
+
+.logo-txt {
+  font-family: "Stalinist One", "cursive";
+  font-size: 1.5rem;
+  letter-spacing: 1.2rem;
+}
+
+.navbar {
+  background-color: #bfcfff;
+}
+
+.navbar li a {
+  color: #5c6e91;
+  padding: 1rem 2rem;
+}
+
+.navbar li a:hover {
+  transition: all 0.3s ease-in-out;
+  background-color: #f1f6f9;
+  color: #000000;
+}
+
+.cover {
+  padding: 15% 7% 25%;
+  background-size: cover;
+  background-image: url("/img/cover_small.jpg");
+  background-attachment: fixed;
+}
+
+.cover-txt {
+  padding: 5% 0;
+  font-family: "Righteous", sans-serif;
+  font-size: 3rem;
+}
+

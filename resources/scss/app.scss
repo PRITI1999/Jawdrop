@@ -1,0 +1,40 @@
+@import './variables';
+
+.icon-size {
+    height: 2rem;
+    width: 2rem;
+}
+
+//Nav section   
+.logo-txt {
+    font-family: 'Stalinist One', 'cursive';
+    font-size: 1.5rem;
+    letter-spacing: 1.2rem;
+}
+
+.navbar {
+    background-color: $violet;
+}
+
+.navbar li a {
+    color: $greytext;
+    padding: 1rem 2rem;
+    &:hover {
+        transition: $smooth;
+        background-color: $white;
+        color: $black;
+    }
+}
+// Cover section
+.cover {
+    padding: 15% 7% 25%;
+    background-size: cover;
+    background-image: url('/img/cover_small.jpg');
+    background-attachment: fixed;
+}
+
+.cover-txt {
+    padding: 5% 0;
+    font-family: 'Righteous', sans-serif;
+    font-size: 3rem;
+}
