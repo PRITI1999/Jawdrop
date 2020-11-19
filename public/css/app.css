@@ -37,3 +37,18 @@
   font-size: 3rem;
 }
 
+.emptyCart {
+  padding: 5% 7%;
+  background-color: #f1f6f9;
+}
+
+.cart {
+  padding: 15% 7% 5%;
+  background-color: #f1f6f9;
+}
+
+.login {
+  padding: 17.5% 7%;
+  background-color: #f1f6f9;
+}
+
