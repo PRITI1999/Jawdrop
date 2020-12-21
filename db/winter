@@ -1,0 +1,21 @@
+[{
+  "name": "Black Wool Crepe",
+  "image": "winter1.jpeg",
+  "price": "50000",
+  "size": "Small"
+},{
+  "name": "White Ecru",
+  "image": "winter2.jpeg",
+  "price": "74056",
+  "size": "Large"
+},{
+  "name": "Embroidered Tweed",
+  "image": "winter3.jpeg",
+  "price": "120056",
+  "size": "Medium"
+},{
+  "name": "Grey shimmer",
+  "image": "winter4.jpeg",
+  "price": "90526",
+  "size": "Small"
+}]

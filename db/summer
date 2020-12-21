@@ -1,0 +1,21 @@
+[{
+  "name": "Mellow Kurta",
+  "image": "summer1.jpg",
+  "price": "5000",
+  "size": "Small"
+},{
+  "name": "Velvet Fusion",
+  "image": "summer2.jpg",
+  "price": "7456",
+  "size": "Large"
+},{
+  "name": "Gulari Tunic",
+  "image": "summer3.webp",
+  "price": "12556",
+  "size": "Medium"
+},{
+  "name": "Nora dress",
+  "image": "summer4.webp",
+  "price": "9526",
+  "size": "Small"
+}]

@@ -1,0 +1,21 @@
+[{
+  "name": "Azul dress",
+  "image": "new1.webp",
+  "price": "10000",
+  "size": "Small"
+},{
+  "name": "Mustard mystery",
+  "image": "new2.webp",
+  "price": "7056",
+  "size": "Large"
+},{
+  "name": "Divina dress",
+  "image": "new3.webp",
+  "price": "10056",
+  "size": "Medium"
+},{
+  "name": "Viola dress",
+  "image": "new4.webp",
+  "price": "9056",
+  "size": "Small"
+}]
