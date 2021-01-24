@@ -5309,8 +5309,8 @@ addToCart.forEach(function (btn) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! /home/cpriti/college-academics/webLab/Project/JawDrop/resources/js/app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! /home/cpriti/college-academics/webLab/Project/JawDrop/resources/scss/app.scss */"./resources/scss/app.scss");
+__webpack_require__(/*! /home/mrinalpandey/jawdrop/resources/js/app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! /home/mrinalpandey/jawdrop/resources/scss/app.scss */"./resources/scss/app.scss");
 
 
 /***/ })
